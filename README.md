@@ -13,3 +13,5 @@ A simple weather app using HTML, CSS, and JavaScript with OpenWeather API.
 1. Clone repo
 2. Open index.html
 3. Enter city name
+## Live Demo
+kekedp11/github.io/weather-app
